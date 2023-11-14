@@ -1,0 +1,28 @@
+{
+  "Module": {
+    "gate": [
+      {
+        "Id": "gate",
+        "ProcessID": "development"
+      }
+    ],
+    "chat": [
+      {
+        "Id": "chat",
+        "ProcessID": "development"
+      }
+    ],
+    "httpgate": [
+      {
+        "Id":"httpgate",
+        "ProcessID":"development"
+      }
+    ],
+    "helloworld": [
+      {
+        "Id": "helloworld",
+        "ProcessID": "development"
+      }
+    ]
+  }
+}
